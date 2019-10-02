@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<CiscoIPPhoneDirectory>
+  <Title>Art Cars Directory</Title>
+  <Prompt>Call some asshole</Prompt>
+  <DirectoryEntry>
+    <Name>Art Cars  phone 1</Name>
+    <Telephone>53547</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Art Cars  phone 2</Name>
+    <Telephone>733</Telephone>
+  </DirectoryEntry>
+</CiscoIPPhoneDirectory>

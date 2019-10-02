@@ -1,0 +1,31 @@
+<CiscoIPPhoneMenu>
+<Prompt>Fucking Phone List</Prompt>
+<MenuItem>
+	<Name>Call 999 For Rangers</Name>
+	<URL>http://172.16.1.2/directory/rangersdirectory.xml</URL>
+</MenuItem>
+<MenuItem>
+	<Name>FUT Corporate Directory</Name>
+	<URL>http://172.16.1.2/directory/FUTcorpdirectory.xml</URL>
+</MenuItem>
+<MenuItem>
+	<Name>Theme Camps</Name>
+	<URL>http://172.16.1.2/directory/campdirectory.xml</URL>
+</MenuItem>
+<MenuItem>
+	<Name>Volunteer Dept Phones</Name>
+	<URL>http://172.16.1.2/directory/departmentdirectory.xml</URL>
+</MenuItem>
+<MenuItem>
+	<Name>Mutant Vehicle Phones</Name>
+	<URL>http://172.16.1.2/directory/artcarsdirectory.xml</URL>
+</MenuItem>
+<MenuItem>
+	<Name>Pay Phones</Name>
+	<URL>http://172.16.1.2/directory/payphonedirectory.xml</URL>
+</MenuItem>
+<MenuItem>
+	<Name>Public Address</Name>
+	<URL>http://172.16.1.2/directory/PAdirectory.xml</URL>
+</MenuItem>
+</CiscoIPPhoneMenu>

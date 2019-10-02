@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<CiscoIPPhoneDirectory>
+  <Title>Dept Directory</Title>
+  <Prompt>Call some asshole</Prompt>
+  <DirectoryEntry>
+    <Name>Dept phone 1</Name>
+    <Telephone>53547</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Dept phone 2</Name>
+    <Telephone>733</Telephone>
+  </DirectoryEntry>
+</CiscoIPPhoneDirectory>
